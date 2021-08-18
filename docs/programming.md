@@ -6,7 +6,7 @@
 
 ## Categories
 
-[Java](java.md)
+[Java](programming/java.md)
 
 ## JavaScript-needed
 
